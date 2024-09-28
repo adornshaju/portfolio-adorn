@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a realtor website that showcases property listings, enabling users to browse available homes with detailed information and search filters.",
+    "skills": ["React", "Express", "Node","javascript","css"],
+    "demo": "https://66f86338a744c24e06936428--effortless-cheesecake-ec3729.netlify.app/",
+    "source": "https://github.com/adornshaju/COMP-213"
+  }
+]
